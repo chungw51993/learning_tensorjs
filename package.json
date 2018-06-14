@@ -1,0 +1,22 @@
+{
+  "name": "learning_tensorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chungw51993/learning_tensorjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chungw51993/learning_tensorjs/issues"
+  },
+  "homepage": "https://github.com/chungw51993/learning_tensorjs#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.4"
+  }
+}
